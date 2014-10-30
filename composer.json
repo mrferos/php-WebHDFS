@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "WebHDFS": "src/"
+            "WebHDFS\\": "src/"
         }
     },
     "description": "WebHDFS implementation in PHP",
