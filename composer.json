@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "email": "me@andresgalindo.us",
+            "name": "Andres Galindo",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "WebHDFS": "src/"
+        }
+    },
+    "description": "WebHDFS implementation in PHP",
+    "keywords": [
+        "webhdfs"
+    ],
+    "license": "MIT",
+    "name": "mrferos/webhdfs",
+    "homepage": "https://github.com/mrferos/php-WebHDFS",
+    "support": {
+        "issues": "https://github.com/mrferos/php-WebHDFS/issues",
+        "source": "https://github.com/mrferos/php-WebHDFS"
+    },
+    "type": "library"
+}

@@ -1,6 +1,5 @@
 <?php
-
-require_once __DIR__ . '/Curl.php';
+namespace WebHDFS;
 
 class WebHDFS {
 
